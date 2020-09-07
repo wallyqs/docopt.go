@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/docopt/docopt.go"
+	"github.com/wallyqs/docopt.go"
 )
 
 var usage = `Usage: counted --help
